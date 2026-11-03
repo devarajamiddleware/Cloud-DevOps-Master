@@ -50,3 +50,35 @@ Meaning:
 - root → Logged-in user
 - container-id → Unique container identifier
 - / → Root directory
+
+
+## First Linux Commands
+
+### pwd
+Prints the current working directory.
+
+Example:
+
+```bash
+pwd
+```
+
+Output:
+
+```
+/
+```
+
+---
+
+### cat /etc/os-release
+
+Displays Linux operating system information.
+
+Example:
+
+```bash
+cat /etc/os-release
+```
+
+Useful for identifying the Linux distribution and version.
